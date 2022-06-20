@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thaozilla
 - 👀 I’m interested in coffee, philosophy, science and football/soccer.
-- 🌱 I’m currently learning python and how to model biological systems.
+- 🌱 I’m currently learning python, R and UNIX and see how to model biological systems.
 - 💞️ I’m looking to collaborate on systemic biology.
 - 📫 How to reach me: email me at thaozilla.nguyen@gmail.com
 
